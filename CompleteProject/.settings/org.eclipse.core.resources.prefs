@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/jsp/common/header.jsp=UTF-8
+encoding//src/com/demo/Calculator.java=UTF-8
+encoding//src/com/demo/CalculatorService.java=UTF-8
+encoding//src/com/demo/CalculatorServiceLocator.java=UTF-8
+encoding//src/com/demo/CalculatorSoapBindingStub.java=UTF-8
+encoding//src/com/servlet/LoginServlet.java=UTF-8
+encoding/<project>=UTF-8
